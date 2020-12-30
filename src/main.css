@@ -188,14 +188,14 @@ label {
 
 
 .peopleContainer {
-	width: 120px;
-	/* box-align: left; */
+	width: 135px;
+	box-align: left;
 }
 
 .peopleContainerFirst {
-	float:left; 
+	/* float:left;  */
 	padding-left:20px; 
-	padding-right:30px
+	/* padding-right:30px */
 }
 
 .peopleName {
